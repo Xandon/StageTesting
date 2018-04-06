@@ -1,0 +1,26 @@
+2018-04-06 10:16:35.7774 [DEBUG] Validating model...
+2018-04-06 10:16:35.8246 [DEBUG] Model validated
+2018-04-06 10:16:35.8247 [DEBUG] Authenticating with server...
+2018-04-06 10:16:36.0370 [DEBUG] Connected to room. (63872:SceneFusion:SceneFusion)
+2018-04-06 10:16:36.0434 [INFO] Connected to server.
+2018-04-06 10:16:36.0434 [DEBUG] OS : Unix 17.4.0.0
+2018-04-06 10:16:36.0435 [DEBUG] Unity Version : 2017.3.0f3
+2018-04-06 10:16:36.0435 [DEBUG] Pro License : False
+2018-04-06 10:16:36.0436 [DEBUG] Platform : OSXEditor
+2018-04-06 10:16:36.0436 [DEBUG] Build Target : StandaloneWindows
+2018-04-06 10:16:36.0437 [DEBUG] Scene Fusion version : 1.7.2
+2018-04-06 10:16:36.0437 [DEBUG] Scene Fusion client build : 0
+2018-04-06 10:16:36.0438 [DEBUG] User : xandon@hotmail.com
+2018-04-06 10:16:36.0438 [DEBUG] Waiting for server response
+2018-04-06 10:16:36.0988 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2018-04-06 10:16:36.0989 [DEBUG] User Permissions: FFFFFFFF
+2018-04-06 10:16:36.1006 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2018-04-06 10:16:36.1007 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2018-04-06 10:16:36.1008 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2018-04-06 10:16:36.1009 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2018-04-06 10:16:36.1010 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2018-04-06 10:16:36.1010 [DEBUG] No stand-in for UnityEngine.Experimental.Rendering.RenderPassAttachment
+2018-04-06 10:16:36.2965 [DEBUG] Uploading scene 'Mine'
+2018-04-06 10:16:36.3268 [DEBUG] Spawn request. (Objects: 16)
+2018-04-06 10:16:36.4857 [DEBUG] Loading complete
+2018-04-06 10:20:04.4897 [DEBUG] Refresh token (WCWzMxW7oZfSQbfILccpT3f53NI0MPtdAynb6ycUaB8qmJngSUyICL0RExQ4ZkIkBAcYSbXxRixmd1pDXD4aS50nPlBnxH7JBjyjzBGz8fMRk1SouBody8DczQoAsrF2geT4plYGmPFD0iS96JYELA0cPKsuuKZJM1Rn3ctKIiRskbM1LN8uq26oDHlgPoel7hi3J6CbXoxooGHCJhcWqxDZ4ldFcr5N5W0cMd4RbsHdf2Ickf5T9b4UxoAyzMz) error: {"err":"Error getting response stream (ReadDone2): ReceiveFailure"}

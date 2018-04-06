@@ -7,3 +7,6 @@
 2018-04-06 10:05:07.1649 [DEBUG] Connecting
 2018-04-06 10:05:07.1984 [DEBUG] Connecting to room (63868:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1027
 2018-04-06 10:10:03.7705 [DEBUG] Sent /Users/frogx/Documents/Unity/SandboxTest/StageTesting/TestMergeScene/KSEditorLogs/SessionLogs/session.63868-636586059072264250.log
+2018-04-06 10:16:35.2206 [INFO] Launching Scene: Mine
+2018-04-06 10:16:35.6821 [DEBUG] Connecting
+2018-04-06 10:16:35.7010 [DEBUG] Connecting to room (63872:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1026
