@@ -24,3 +24,22 @@
 2018-04-06 10:16:36.3268 [DEBUG] Spawn request. (Objects: 16)
 2018-04-06 10:16:36.4857 [DEBUG] Loading complete
 2018-04-06 10:20:04.4897 [DEBUG] Refresh token (WCWzMxW7oZfSQbfILccpT3f53NI0MPtdAynb6ycUaB8qmJngSUyICL0RExQ4ZkIkBAcYSbXxRixmd1pDXD4aS50nPlBnxH7JBjyjzBGz8fMRk1SouBody8DczQoAsrF2geT4plYGmPFD0iS96JYELA0cPKsuuKZJM1Rn3ctKIiRskbM1LN8uq26oDHlgPoel7hi3J6CbXoxooGHCJhcWqxDZ4ldFcr5N5W0cMd4RbsHdf2Ickf5T9b4UxoAyzMz) error: {"err":"Error getting response stream (ReadDone2): ReceiveFailure"}
+2018-04-06 10:25:24.2810 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEngine.GUILayoutUtility.BeginLayoutGroup (UnityEngine.GUIStyle style, UnityEngine.GUILayoutOption[] options, System.Type layoutType) (at /Users/builduser/buildslave/unity/build/Runtime/IMGUI/Managed/GUILayoutUtility.cs:296)
+UnityEditor.EditorGUILayout.BeginHorizontal (UnityEngine.GUIContent content, UnityEngine.GUIStyle style, UnityEngine.GUILayoutOption[] options) (at /Users/builduser/buildslave/unity/build/Editor/Mono/EditorGUI.cs:7782)
+UnityEditor.EditorGUILayout.BeginHorizontal (UnityEngine.GUIStyle style, UnityEngine.GUILayoutOption[] options) (at /Users/builduser/buildslave/unity/build/Editor/Mono/EditorGUI.cs:7768)
+KS.SceneFusion.Client.Editor.Feedback.Draw ()
+KS.SceneFusion.Client.Editor.OnlineMenu.OnDraw (KS.Unity.Editor.Window window)
+KS.Unity.Editor.AuthenticatedMenu.Draw (KS.Unity.Editor.Window window)
+KS.Unity.Editor.Window.OnGUI ()
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:232)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+UnityEditor.HostView.Invoke (System.String methodName, System.Object obj) (at /Users/builduser/buildslave/unity/build/Editor/Mono/HostView.cs:295)
+UnityEditor.HostView.Invoke (System.String methodName) (at /Users/builduser/buildslave/unity/build/Editor/Mono/HostView.cs:288)
+UnityEditor.HostView.InvokeOnGUI (Rect onGUIPosition) (at /Users/builduser/buildslave/unity/build/Editor/Mono/HostView.cs:255)
+
+2018-04-06 10:25:24.3113 [DEBUG] Disconnecting from room (63872:SceneFusion:SceneFusion)
+2018-04-06 10:25:24.3134 [INFO] Disconnected from server.
+2018-04-06 10:25:24.3134 [DEBUG] Disconnect. (Duration: 528)
