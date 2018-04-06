@@ -1,0 +1,27 @@
+2018-04-06 10:05:07.2826 [DEBUG] Validating model...
+2018-04-06 10:05:07.3151 [DEBUG] Model validated
+2018-04-06 10:05:07.3157 [DEBUG] Authenticating with server...
+2018-04-06 10:05:07.3780 [DEBUG] Connected to room. (63868:SceneFusion:SceneFusion)
+2018-04-06 10:05:07.3832 [INFO] Connected to server.
+2018-04-06 10:05:07.3835 [DEBUG] OS : Unix 17.4.0.0
+2018-04-06 10:05:07.3835 [DEBUG] Unity Version : 2017.3.0f3
+2018-04-06 10:05:07.3836 [DEBUG] Pro License : False
+2018-04-06 10:05:07.3838 [DEBUG] Platform : OSXEditor
+2018-04-06 10:05:07.3839 [DEBUG] Build Target : StandaloneWindows
+2018-04-06 10:05:07.3839 [DEBUG] Scene Fusion version : 1.7.2
+2018-04-06 10:05:07.3840 [DEBUG] Scene Fusion client build : 0
+2018-04-06 10:05:07.3840 [DEBUG] User : xandon@hotmail.com
+2018-04-06 10:05:07.3841 [DEBUG] Waiting for server response
+2018-04-06 10:05:07.5323 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2018-04-06 10:05:07.5324 [DEBUG] User Permissions: FFFFFFFF
+2018-04-06 10:05:07.9244 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2018-04-06 10:05:07.9246 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2018-04-06 10:05:07.9247 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2018-04-06 10:05:07.9248 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2018-04-06 10:05:07.9248 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2018-04-06 10:05:07.9249 [DEBUG] No stand-in for UnityEngine.Experimental.Rendering.RenderPassAttachment
+2018-04-06 10:05:08.9552 [DEBUG] Loading complete
+2018-04-06 10:09:05.3729 [DEBUG] Refresh token (xxPMHM7dTjDw4qgqkKtxcllPfrEQQOqGFcs8YD7mUS8aenbGFYjG9g8ylQnXRc9cHiUmKGkzkbHicjCBPRpfJNgE6pGgend9jTFKR9zqzkX7MTrCnL0xr4BbZ9kD0dr3zQhpsd3Q2lyFpIpo2oOodcr5GRB3pdggjz0Q7sncSehQICjyDSalqzcAcswsonxWoa2tmyHWBkTE4WMrC5CbDFToxeIzOfLsQTwwbpJ0An1yQpWaNKDnLnaF4mhzHti) error: {"err":"Error getting response stream (ReadDone1): ReceiveFailure"}
+2018-04-06 10:09:57.4905 [DEBUG] Disconnecting from room (63868:SceneFusion:SceneFusion)
+2018-04-06 10:10:03.5891 [INFO] Disconnected from server.
+2018-04-06 10:10:03.5892 [DEBUG] Disconnect. (Duration: 289)
